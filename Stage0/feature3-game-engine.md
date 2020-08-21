@@ -28,7 +28,7 @@ Controlls core gameplay
 
   When the ball misses paddle and collides the wall
   
-  Then increment the score by one of the player oposite to the ball-wall collision
+  Then notify score handler module
   
   
 ### Scenario #4: set paddle size
