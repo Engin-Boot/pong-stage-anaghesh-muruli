@@ -1,4 +1,4 @@
-# -give-this-module-a-name
+# Game Settings
 
 ## Feature #2
 
