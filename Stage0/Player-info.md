@@ -1,12 +1,12 @@
 # Player info
 
-## Feature
+## Feature #1
 
 Accept and verify Player information
 
 ## Acceptance Criteria
 
-### Scenario: Create new player
+### Scenario #1: Create new player
 
   Given the player is not exisiting 
 
@@ -14,7 +14,7 @@ Accept and verify Player information
 
   Then accept userName and email
 
-### Scenario: verify the player
+### Scenario #2: verify the player
 
   Given the player is already registered 
 
@@ -23,7 +23,7 @@ Accept and verify Player information
 
   Then verify if the userName is registered
 
-### Scenario: get player details
+### Scenario #3: get player details
 
   Given the player is verifed and authenticated
 
