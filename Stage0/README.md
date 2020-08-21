@@ -2,4 +2,4 @@
 
 ## UML class diagram
 
-[![UML-Class.png](https://i.postimg.cc/Z5WDDHbV/UML-Class.png)](https://postimg.cc/bZjTZQ2t)
+[![UML-Class-1.png](https://i.postimg.cc/LsHHNBV7/UML-Class-1.png)](https://postimg.cc/CRQTK8XH)
