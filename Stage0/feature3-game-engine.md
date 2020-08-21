@@ -31,7 +31,7 @@ Controlls core gameplay
   Then increment the score by one of the player oposite to the ball-wall collision
   
   
-### Scenario #3: set paddle size
+### Scenario #4: set paddle size
 
   Given the game is started
 
