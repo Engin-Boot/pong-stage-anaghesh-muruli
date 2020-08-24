@@ -2,8 +2,7 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
-
+Module 1: player info is initiated
 ## Movement Initiation
 
 -describe-how-modules-interact-to-make-the-ball-move
