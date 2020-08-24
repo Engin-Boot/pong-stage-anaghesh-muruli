@@ -33,7 +33,7 @@ handles scores of the game
   
 ### Scenario #4: check winner 
 
-  Given the is in progress
+  Given the is in progress and score is updated
 
   When the current score is equal to maximum score
   
